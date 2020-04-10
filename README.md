@@ -6,3 +6,4 @@ Uploads of some extra [pandoc](https://pandoc.org/) material which might be of i
 ```
 pandoc INPUT --reference-doc=numbered-sections.docx -o OUTPUT.docx
 ```
+Headings for levels 1-3 are numbered. E.g. section, subsection, and subsubsection. Headings on level 4 and lower are not numbered.
